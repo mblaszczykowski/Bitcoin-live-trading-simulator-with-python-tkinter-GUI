@@ -28,7 +28,7 @@ This simulator lets you trade Bitcoin with its real time value without using rea
 
 
 ## Screenshots
-![Example screenshot](./img_for_readme/ss.png)
+![Example screenshot](./img_for_readme/screen.png)
 
 
 ## Setup
