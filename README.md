@@ -24,6 +24,7 @@ This simulator lets you trade Bitcoin with its real time value without using rea
 ## Features
 - You can buy or sell BTC when you think it is a good time to do so and wait for results shown in "Balance" label.
 - BTC price is updated every second.
+- All informations are saved every time you buy or sell and stored on your device.
 
 
 ## Screenshots
@@ -44,4 +45,4 @@ Room for improvement:
 
 
 ## Contact
-Mail: michvlbbb@gmail.com
+Mail: kontakt.mblaszczykowski@gmail.com
