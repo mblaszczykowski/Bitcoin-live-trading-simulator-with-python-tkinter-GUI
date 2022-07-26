@@ -42,6 +42,7 @@ Room for improvement:
 - Adding more cryptocurrencies to choose
 - Adding more curriencies to trade with to choose
 - More stats, graphs, better design
+- Nice labels/buttons with warnings for errors which are now only visible in console
 
 
 ## Contact
