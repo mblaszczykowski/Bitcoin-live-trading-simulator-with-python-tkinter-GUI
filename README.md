@@ -43,6 +43,7 @@ Room for improvement:
 - Adding more curriencies to trade with to choose
 - More stats, graphs, better design
 - Nice labels/buttons with warnings for errors which are now only visible in console
+- Nice labels with info for when we buy/sell
 
 
 ## Contact
