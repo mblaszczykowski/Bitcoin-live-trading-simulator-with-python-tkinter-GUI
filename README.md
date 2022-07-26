@@ -23,6 +23,7 @@ This simulator lets you trade Bitcoin with its real time value without using rea
 
 ## Features
 - You can buy or sell BTC when you think it is a good time to do so and wait for results shown in "Balance" label.
+- BTC price is updated every second.
 
 
 ## Screenshots
@@ -34,15 +35,12 @@ Python 3.x installed and:
 `pip3 install cryptocompare`
 
 
-## Project Status
-Project is done/in progress because there is space for development.
-
-
 ## Room for Improvement
 
 Room for improvement:
 - Adding more cryptocurrencies to choose
 - Adding more curriencies to trade with to choose
+- More stats, graphs, better design
 
 
 ## Contact
